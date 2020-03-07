@@ -1,0 +1,20 @@
+img,svg,video {
+    background-color: blueviolet;
+}
+input {
+    background-color: #0000FF
+}
+button,a {
+    background-color: #FFFF00
+}
+p,span,i,strong,label,small{
+    background-color: red;
+}
+h1,h2,h3,h4,h5{
+    background-color: lawngreen;
+}
+*{
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: none;
+}
